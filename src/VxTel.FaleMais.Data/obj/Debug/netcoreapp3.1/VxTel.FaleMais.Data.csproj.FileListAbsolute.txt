@@ -1,0 +1,4 @@
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\bin\Debug\netcoreapp3.1\VxTel.FaleMais.Domain.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.FaleMais.Data.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.FaleMais.Data.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.FaleMais.Data.AssemblyInfo.cs

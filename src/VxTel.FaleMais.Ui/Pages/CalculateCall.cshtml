@@ -1,0 +1,79 @@
+﻿@page
+@model CalculateCall
+
+@{
+	ViewData["Title"] = "Calcular Valor da ligação";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Selecione seu plano.</p>
+
+<form method="post">
+
+	<p>
+		Origem:
+		<select name="CalculateCallRequest.Origin">
+			<option value="">Selecione</option>
+			<option value="11">11</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+		</select>
+	</p>
+
+	<p>
+		Destino:
+		<select name="CalculateCallRequest.Destiny">
+			<option value="">Selecione</option>
+			<option value="11">11</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+		</select>
+	</p>
+
+	<p>
+		Tempo(min):
+		<input type="text" name="CalculateCallRequest.CallTimeInMinutes" />
+	</p>
+
+	<p>
+		Plano:
+		<select asp-items="Model.PlanOptions" name="CalculateCallRequest.PlanId"></select>
+	</p>
+
+	<p>
+		<input type="submit" value="Calcular">
+	</p>
+
+	<p>
+		@ViewData["Error"]
+	</p>
+
+	<p>
+		@{
+			if (Model.CalculatedCallReponse != null)
+			{
+				<table style="width:600px;">
+					<tr>
+						<td><b>Origem</b></td>
+						<td><b>Destino</b></td>
+						<td><b>Tempo</b></td>
+						<td><b>Plano FaleMais</b></td>
+						<td><b>Com FaleMais</b></td>
+						<td><b>Sem	FaleMais</b></td>
+					</tr>
+					<tr>
+						<td>@Model.CalculatedCallReponse.Origin</td>
+						<td>@Model.CalculatedCallReponse.Destiny</td>
+						<td>@Model.CalculatedCallReponse.TimeInMinutes</td>
+						<td>@Model.CalculatedCallReponse.Plan</td>
+						<td>@Model.CalculatedCallReponse.WithTalkMore</td>
+						<td>@Model.CalculatedCallReponse.WithOutTalkMore</td>
+					</tr>
+				</table>
+			}
+		}
+	</p>
+</form>

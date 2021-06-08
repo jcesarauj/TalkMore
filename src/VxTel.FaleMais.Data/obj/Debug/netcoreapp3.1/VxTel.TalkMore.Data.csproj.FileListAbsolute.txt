@@ -1,0 +1,12 @@
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.AssemblyInfo.cs
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Data.deps.json
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Data.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Data.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.csproj.CopyComplete
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Data\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.pdb

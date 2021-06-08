@@ -1,0 +1,16 @@
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Application.deps.json
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Application.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Application.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.AssemblyInfo.cs
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Core.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Data.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.dll
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Data.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Core.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.pdb
+C:\Users\Julio\source\repos\FaleMais\src\VxTel.FaleMais.Application\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Application.csproj.CopyComplete
