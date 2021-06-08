@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Ui\\VxTel.TalkMore.Ui.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Ui\\VxTel.TalkMore.Ui.csproj",
       "projectName": "VxTel.TalkMore.Ui",
-      "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Ui\\VxTel.TalkMore.Ui.csproj",
+      "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Ui\\VxTel.TalkMore.Ui.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Ui\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Ui\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj": {}
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj": {
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj",
         "projectName": "VxTel.TalkMore.Application",
-        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj",
+        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Application\\VxTel.TalkMore.Application.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Application\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,14 +31,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj": {
-                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj"
+              "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj": {
+                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj"
               },
-              "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj"
+              "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj"
               },
-              "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {
-                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj"
+              "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {
+                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj": {
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj",
         "projectName": "VxTel.TalkMore.Data",
-        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj",
+        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -108,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj"
+              "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj": {
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
         "projectName": "VxTel.TalkMore.Domain",
-        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
+        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -205,14 +205,14 @@
         }
       }
     },
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
         "projectName": "VxTel.TalkMore.Core",
-        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
+        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

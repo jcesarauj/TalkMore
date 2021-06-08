@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
       "projectName": "VxTel.TalkMore.Domain",
-      "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
+      "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

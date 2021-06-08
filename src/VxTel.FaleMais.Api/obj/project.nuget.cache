@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/umsQb4QT71Jr5l24rRouVHzb168M+YCN5m9HLg1aW7qiSGr6w+WR7PxAhpFxuVofwqIC29IIMhRQqLbI3k1bw==",
+  "dgSpecHash": "QcScFOP9rgX0SoXRaqZCOG/ZFMthtJekLUh6obNRbd2f78tJ08VH1DG+CazjwWJHI0P827Uq2x+vvRM8ppSEew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Api\\VxTel.TalkMore.Api.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Api\\VxTel.TalkMore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\fluentvalidation\\10.2.2\\fluentvalidation.10.2.2.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.2.2\\fluentvalidation.aspnetcore.10.2.2.nupkg.sha512",

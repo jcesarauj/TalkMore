@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CkbvjnfbV4EQW+rAUR6lXWfQDnaNTzqWHtRYUHNIoSEoY+FDKuVzMWp6rLcZmNeCys4VzymsrR8e/FjQYYr15g==",
+  "dgSpecHash": "Slb6co8VH0Rkt+z4NZ3xImiTutUx3/VzDkCzfVbvFQ8z5Q/ny+yo7VrLvTvlN9UQmJbTbM0w6S6nhHnycPz7OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Domain\\VxTel.TalkMore.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

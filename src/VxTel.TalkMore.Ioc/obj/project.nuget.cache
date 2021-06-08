@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lj3VB/yRvj/XdMqrV4LIlWBgcmI2QMKDrivD72qBLzd5zvrlNcZaFU1z/lB2h0dfITFSQ9Z9L8wX0qLowcUI0Q==",
+  "dgSpecHash": "okV8Q64lnBjDeQpLTw3+FTahtmWTjXsQ0kDuBeAGejxN/kOrGXVPMz73BWSmWKUS7ViaIyH6NLy+MjvZesLakg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Ioc\\VxTel.TalkMore.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Ioc\\VxTel.TalkMore.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\fluentvalidation\\10.2.2\\fluentvalidation.10.2.2.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

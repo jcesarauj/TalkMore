@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {}
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {
+    "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
         "projectName": "VxTel.TalkMore.Core",
-        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
+        "projectPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\VxTel.TalkMore.Core.csproj",
         "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.TalkMore.Core\\obj\\",
+        "outputPath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.TalkMore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

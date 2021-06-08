@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LYqOzCmMQRPm7bjKQ4SgZG6w1WYfZc5YfEi9i8frlcuhnlMZoMl0PaL74PNEHy3lacAseqMy2PZbh7k1UWz/XA==",
+  "dgSpecHash": "pjL4UU5RiOFpd1tsmPpMZxCLuVLigj6ecKyJlkAXoAyGxxh7ZbhalFV6GOfucRqfkDPxURtgJlSEKcAOdEeN8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\tests\\VxTel.FaleMais.Data.Tests\\VxTel.TalkMore.Data.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\tests\\VxTel.FaleMais.Data.Tests\\VxTel.TalkMore.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",

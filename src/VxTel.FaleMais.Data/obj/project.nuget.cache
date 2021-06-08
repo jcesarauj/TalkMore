@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EjxKHwXu6JU7MGssAH9C+Lz4F8zYVJDvuWkJIfWeEbvnzgZR3+u4RddwT4bA3Tg70b0SWc8ClqkRt3w86XIAjA==",
+  "dgSpecHash": "qST+BoMpXa7JbdSEZt3LVvoedXezk1wtUWuovXvFKYJMysjqqJNzNofs9knFQ8iW1xQuCOoxQqKSmR4XOlUyXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\FaleMais\\TalkMore\\src\\VxTel.FaleMais.Data\\VxTel.TalkMore.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\Julio\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
