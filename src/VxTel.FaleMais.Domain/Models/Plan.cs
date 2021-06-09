@@ -23,9 +23,9 @@
 			if (ExceededMinutes < 0) ExceededMinutes = 0;
 		}
 
-		public void CalculateValuePlanWithExceededMinutes(double taxByMinute)
+		public void CalculateValuePlanWithExceededMinutes(double costPerMinute)
 		{
-			ValuePlanWithExceededMinutes = ExceededMinutes * taxByMinute;
+			ValuePlanWithExceededMinutes = ExceededMinutes * costPerMinute;
 			ValuePlanWithExceededMinutes += ValuePlanWithExceededMinutes / OverTimeRatePercent;
 		}
 

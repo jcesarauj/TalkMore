@@ -7,3 +7,12 @@ C:\Users\Julio\source\repos\FaleMais\src\VxTel.TalkMore.Core\obj\Debug\netcoreap
 C:\Users\Julio\source\repos\FaleMais\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.csproj.CoreCompileInputs.cache
 C:\Users\Julio\source\repos\FaleMais\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.dll
 C:\Users\Julio\source\repos\FaleMais\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.pdb
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Core.deps.json
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Core.dll
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\bin\Debug\netcoreapp3.1\VxTel.TalkMore.Core.pdb
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.AssemblyInfo.cs
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.dll
+C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.TalkMore.Core\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Core.pdb

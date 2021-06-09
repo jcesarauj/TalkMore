@@ -13,7 +13,7 @@
 
 	<p>
 		Origem:
-		<select name="CalculateCallRequest.Origin">
+		<select name="CalculateCallRequest.Origin" id="Origin">
 			<option value="">Selecione</option>
 			<option value="11">11</option>
 			<option value="16">16</option>
@@ -24,7 +24,7 @@
 
 	<p>
 		Destino:
-		<select name="CalculateCallRequest.Destiny">
+		<select name="CalculateCallRequest.Destiny" id="Destiny">
 			<option value="">Selecione</option>
 			<option value="11">11</option>
 			<option value="16">16</option>
@@ -35,16 +35,16 @@
 
 	<p>
 		Tempo(min):
-		<input type="text" name="CalculateCallRequest.CallTimeInMinutes" />
+		<input type="text" name="CalculateCallRequest.CallTimeInMinutes" id="CallTimeInMinutes"/>
 	</p>
 
 	<p>
 		Plano:
-		<select asp-items="Model.PlanOptions" name="CalculateCallRequest.PlanId"></select>
+		<select asp-items="Model.PlanOptions" name="CalculateCallRequest.PlanId" id="PlanId"></select>
 	</p>
 
 	<p>
-		<input type="submit" value="Calcular">
+		<input type="submit" value="Calcular" id="Calculate">
 	</p>
 
 	<p>
