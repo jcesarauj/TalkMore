@@ -1,4 +1,5 @@
-﻿using VxTel.TalkMore.Data.Tests.Config;
+﻿using System;
+using VxTel.TalkMore.Data.Tests.Config;
 
 namespace VxTel.TalkMore.Data.Tests.Pages
 {
@@ -18,9 +19,17 @@ namespace VxTel.TalkMore.Data.Tests.Pages
 			Helper.FillDropDownById("PlanId", PlanId.ToString());
 		}
 		public bool ValidatevalidateIfItsInUrl() => Helper.ValidarConteudoUrl(Helper.Configuration.CalculatePlanUrl);
-
+		public double CalculedWithTalkMore() 
+		{ 
+			var withTalkMore = Convert.ToDouble(Helper.GetTextElementById("WithTalkMore"));
+			return withTalkMore;
+		}
+		public double CalculedWithOutTalkMore()
+		{
+			var withOutTalkMore = Convert.ToDouble(Helper.GetTextElementById("WithOutTalkMore"));
+			return withOutTalkMore;
+		}
 		public void ClickInTheButtonCalculate() => Helper.ClickButomById("Calculate");
-
 		public int Origin { get; set; }
 		public int Destiny { get; set; }
 		public int CallTimeInMinutes { get; set; }
