@@ -17,7 +17,7 @@ namespace VxTel.TalkMore.Api.Controllers.V1
 		}
 
 		[HttpPost]
-		public async Task<IActionResult> CalculateValueCall([FromBody] CalculateValueCallCommand calculateValueCallCommand)
+		public async Task<IActionResult> CalculateValueCall([FromBody] CalculateCallValueCommand calculateValueCallCommand)
 		{
 			var result = await _mediatorHandler.SendCommand(calculateValueCallCommand);
 			return result.ToResponse();

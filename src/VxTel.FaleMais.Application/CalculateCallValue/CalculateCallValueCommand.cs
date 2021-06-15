@@ -2,7 +2,7 @@
 
 namespace VxTel.TalkMore.Application.CalculedValueCall
 {
-	public class CalculateValueCallCommand : Command
+	public class CalculateCallValueCommand : Command
 	{
 		public int Origin { get; set; }
 		public int Destiny { get; set; }

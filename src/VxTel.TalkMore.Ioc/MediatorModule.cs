@@ -13,8 +13,8 @@ namespace VxTel.TalkMore.Ioc
 		public static void AddMediatr(this IServiceCollection services)
 		{
 			services.AddScoped<IMediatorHandler, MediatorHandler>();
-			services.AddScoped<IRequestHandler<CalculateValueCallCommand, Dto>, CalculedValueCallHandler>();
-			services.AddTransient<IValidator<CalculateValueCallCommand>, CalculedValueCallValidation>();
+			services.AddScoped<IRequestHandler<CalculateCallValueCommand, Dto>, CalculateCallValueHandler>();
+			services.AddTransient<IValidator<CalculateCallValueCommand>, CalculateCallValueValidation>();
 		}
 	}
 }

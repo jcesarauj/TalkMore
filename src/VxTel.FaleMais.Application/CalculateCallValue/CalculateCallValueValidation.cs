@@ -2,9 +2,9 @@
 
 namespace VxTel.TalkMore.Application.CalculedValueCall
 {
-	public class CalculedValueCallValidation : AbstractValidator<CalculateValueCallCommand>
+	public class CalculateCallValueValidation : AbstractValidator<CalculateCallValueCommand>
 	{
-		public CalculedValueCallValidation()
+		public CalculateCallValueValidation()
 		{
 			RuleFor(c => c.Origin)
 					.NotEmpty()

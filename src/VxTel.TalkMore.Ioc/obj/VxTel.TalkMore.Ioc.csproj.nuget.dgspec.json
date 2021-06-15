@@ -244,6 +244,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[21.2.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[10.2.2, )"

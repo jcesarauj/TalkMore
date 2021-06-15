@@ -4,7 +4,7 @@ using domain = VxTel.TalkMore.Domain.Models;
 
 namespace VxTel.TalkMore.Application.CalculedValueCall
 {
-	public class CalculedValueCallBuilder
+	public class CalculateCallValueBuilder
 	{
 		private CallFee _callFee;
 		private domain.Plan _plan;
@@ -13,43 +13,43 @@ namespace VxTel.TalkMore.Application.CalculedValueCall
 		private int _origin;
 		private int _destiny;
 
-		public CalculedValueCallBuilder WithCallFee(CallFee callFee)
+		public CalculateCallValueBuilder WithCallFee(CallFee callFee)
 		{
 			_callFee = callFee;
 			return this;
 		}
 
-		public CalculedValueCallBuilder WithPlan(domain.Plan plan)
+		public CalculateCallValueBuilder WithPlan(domain.Plan plan)
 		{
 			_plan = plan;
 			return this;
 		}
 
-		public CalculedValueCallBuilder WithOrigin(int origin)
+		public CalculateCallValueBuilder WithOrigin(int origin)
 		{
 			_origin = origin;
 			return this;
 		}
 
-		public CalculedValueCallBuilder WithDestiny(int destiny)
+		public CalculateCallValueBuilder WithDestiny(int destiny)
 		{
 			_destiny = destiny;
 			return this;
 		}
 
-		public CalculedValueCallBuilder WithCallTimeInMinutes(int callTimeInMinutes)
+		public CalculateCallValueBuilder WithCallTimeInMinutes(int callTimeInMinutes)
 		{
 			_callTimeInMinutes = callTimeInMinutes;
 			return this;
 		}
 
-		public CalculedValueCallBuilder CalculateExceededMinutes()
+		public CalculateCallValueBuilder CalculateExceededMinutes()
 		{
 			_plan.CalculateExceededMinutes(_callTimeInMinutes);
 			return this;
 		}
 
-		public CalculedValueCallBuilder CalculateWithTalkMore()
+		public CalculateCallValueBuilder CalculateWithTalkMore()
 		{
 			if (_plan.IsExceededMinutes())
 			{
@@ -59,7 +59,7 @@ namespace VxTel.TalkMore.Application.CalculedValueCall
 			return this;
 		}
 
-		public CalculedValueCallBuilder CalculateWithOutTalkMore()
+		public CalculateCallValueBuilder CalculateWithOutTalkMore()
 		{
 			_callFee.CalculateFeePerMinutes(_callTimeInMinutes);
 			_calculedValueCallDto.WithOutTalkMore = _callFee.TotalFee;
