@@ -1,0 +1,5 @@
+obj\Debug\net5.0/CalculateValueCall.cs \
+obj\Debug\net5.0/CalculateValueCallGrpc.cs: google/api/http.proto\
+ C:/Users/Julio/.nuget/packages/grpc.tools/2.32.0/build/native/include/google/protobuf/descriptor.proto\
+ google/api/annotations.proto\
+ CalculateValueCall.proto

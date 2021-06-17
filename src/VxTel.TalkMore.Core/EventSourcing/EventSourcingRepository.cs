@@ -47,7 +47,7 @@ namespace VxTel.TalkMore.Core.EventSourcing
                 eventList.Add(evento);
             }
 
-            return eventList.OrderBy(e => e.DataOcorrencia);
+            return eventList.OrderBy(e => e.RegisterDate);
         }
 
         private static IEnumerable<EventData> FormatEvent<TEvent>(TEvent @event) where TEvent : Event

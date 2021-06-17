@@ -23,4 +23,3 @@ C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.FaleMais.Domain\obj\Debu
 C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.FaleMais.Domain\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.FaleMais.Domain\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.dll
 C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.FaleMais.Domain\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.pdb
-C:\Users\Julio\source\repos\FaleMais\TalkMore\src\VxTel.FaleMais.Domain\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Domain.csprojAssemblyReference.cache

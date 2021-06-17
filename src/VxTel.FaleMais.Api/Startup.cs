@@ -31,8 +31,8 @@ namespace VxTel.TalkMore.Api
 			services.AddMediatR(Assembly.GetExecutingAssembly());
 			services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationBehavor<,>));
 			services.AddValidatorsFromAssembly(typeof(Startup).Assembly);
-
 			services.AddDbContext<TalkMoreContext>(opt => opt.UseInMemoryDatabase("TalkMore"));
+
 			services.AddSwaggerGen(options =>
 			{
 				options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
