@@ -7,12 +7,12 @@ using VxTel.TalkMore.Domain.Models;
 namespace VxTel.TalkMore.Data.Tests
 {
 	[Binding]
-	public class CalcularValorDaLigacaoSteps
+	public class CalculateValueCallSteps
 	{
 		private readonly AutomationWebTestsFixture _testFixture;
 		private readonly CalculateCallScreen _calculateCallScreen;
 
-		public CalcularValorDaLigacaoSteps(AutomationWebTestsFixture testFixture)
+		public CalculateValueCallSteps(AutomationWebTestsFixture testFixture)
 		{
 			_testFixture = testFixture;
 			_calculateCallScreen = new CalculateCallScreen(testFixture.BrowserHelper);

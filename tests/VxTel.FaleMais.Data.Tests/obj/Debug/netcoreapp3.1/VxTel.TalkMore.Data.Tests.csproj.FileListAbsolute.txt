@@ -244,3 +244,7 @@ C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\ob
 C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.Tests.dll
 C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.Tests.pdb
 C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\obj\Debug\netcoreapp3.1\VxTel.TalkMore.Data.Tests.genruntimeconfig.cache
+C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Julio\source\repos\FaleMais\TalkMore\tests\VxTel.FaleMais.Data.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll

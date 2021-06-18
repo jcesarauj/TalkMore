@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "VxTel.TalkMore.Grpc.Client";
+
+package valuecall;
+
+// The greeting service definition.
+service CalculateValueCall {
+  // Sends a greeting
+  rpc CalculateValueCall (CalculateValueCallRequest) returns (CalculateValueCallReply);  
+}
+
+// The request message containing the user's name.
+message CalculateValueCallRequest {
+	int32 Origin = 14;
+	int32 Destiny = 16;
+	int32 CallTimeInMinutes = 120; 
+	int32 PlanId = 1;
+}
+
+// The response message containing the greetings.
+message CalculateValueCallReply {
+	bool Success = 1;
+	string Data = 12;
+}

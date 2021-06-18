@@ -9,8 +9,8 @@ namespace VxTel.TalkMore.Core.EventSourcing
 
 		public EventStoreService(IConfiguration configuration)
 		{
-			_connection = EventStoreConnection.Create(configuration.GetConnectionString("EventStoreConnection"));
-			_connection.ConnectAsync();
+			//_connection = EventStoreConnection.Create(configuration.GetConnectionString("EventStoreConnection"));
+			//_connection.ConnectAsync();
 		}
 
 		public IEventStoreConnection GetConnection() => _connection;

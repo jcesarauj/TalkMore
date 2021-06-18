@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTel.TalkMore.Ioc", "src\V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTel.TalkMore.Domain", "src\VxTel.FaleMais.Domain\VxTel.TalkMore.Domain.csproj", "{504A0084-27F9-475C-A712-72EAE672A651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VxTel.TalkMore.Grpc", "src\VxTel.TalkMore.Grpc\VxTel.TalkMore.Grpc.csproj", "{E3CB8E40-E1F6-4C24-9658-3F933C955E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VxTel.TalkMore.Grpc", "src\VxTel.TalkMore.Grpc\VxTel.TalkMore.Grpc.csproj", "{E3CB8E40-E1F6-4C24-9658-3F933C955E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VxTel.TalkMore.Grpc.Client", "src\VxTel.TalkMore.Grpc.Client\VxTel.TalkMore.Grpc.Client.csproj", "{F34FE5AE-B977-4AD9-A9AB-D93C15147242}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E3CB8E40-E1F6-4C24-9658-3F933C955E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3CB8E40-E1F6-4C24-9658-3F933C955E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3CB8E40-E1F6-4C24-9658-3F933C955E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34FE5AE-B977-4AD9-A9AB-D93C15147242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34FE5AE-B977-4AD9-A9AB-D93C15147242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34FE5AE-B977-4AD9-A9AB-D93C15147242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34FE5AE-B977-4AD9-A9AB-D93C15147242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

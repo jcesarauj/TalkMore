@@ -20,13 +20,7 @@ namespace VxTel.TalkMore.Grpc
 		}
 		public async override Task<CalculateValueCallReply> CalculateValueCall(CalculateValueCallRequest request, ServerCallContext context)
 		{
-			var result = await _mediatorHandler.SendCommand(new CalculateCallValueCommand()
-			{
-				Destiny = request.Destiny,
-				Origin = request.Origin,
-				CallTimeInMinutes = request.CallTimeInMinutes,
-				PlanId = request.PlanId
-			});
+			var result = await _mediatorHandler.SendCommand(new CalculateCallValueCommand(request.Destiny, request.Origin, request.CallTimeInMinutes, request.PlanId));
 
 			return await Task.FromResult(new CalculateValueCallReply()
 			{
